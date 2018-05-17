@@ -1,1 +1,1 @@
-worker: python3 LCWA-Bot.py
+worker: python LCWA-Bot.py
