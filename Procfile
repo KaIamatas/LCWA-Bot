@@ -1,1 +1,1 @@
-worker: python <LCWA-Bot>.py
+web: gunicorn LCWA-bot.py
